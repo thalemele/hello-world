@@ -1,2 +1,5 @@
 # hello-world
-Hello world repository
+Hello world 
+
+Using git tutorial to learn how to use it.
+Commiting changes in a moment.
